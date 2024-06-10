@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-06T02:39:23.622002532Z</date>
+  <millis>1714963163622</millis>
+  <nanos>2532</nanos>
+  <sequence>0</sequence>
+  <logger>jason.asSemantics.TransitionSystem.uav1</logger>
+  <level>INFO</level>
+  <class>jason.stdlib.println</class>
+  <method>execute</method>
+  <thread>56</thread>
+  <message>Started!</message>
+</record>
+<record>
+  <date>2024-05-06T02:39:23.627444702Z</date>
+  <millis>1714963163627</millis>
+  <nanos>444702</nanos>
+  <sequence>1</sequence>
+  <logger>jason.asSemantics.TransitionSystem.uav1</logger>
+  <level>INFO</level>
+  <class>jason.stdlib.println</class>
+  <method>execute</method>
+  <thread>56</thread>
+  <message>taking off</message>
+</record>
+<record>
+  <date>2024-05-06T02:39:28.693858209Z</date>
+  <millis>1714963168693</millis>
+  <nanos>858209</nanos>
+  <sequence>2</sequence>
+  <logger>jason.asSemantics.TransitionSystem.uav1</logger>
+  <level>INFO</level>
+  <class>jason.stdlib.println</class>
+  <method>execute</method>
+  <thread>56</thread>
+  <message>Flying to 1,0</message>
+</record>
+<record>
+  <date>2024-05-06T02:39:40.715672768Z</date>
+  <millis>1714963180715</millis>
+  <nanos>672768</nanos>
+  <sequence>3</sequence>
+  <logger>jason.asSemantics.TransitionSystem.uav1</logger>
+  <level>INFO</level>
+  <class>jason.stdlib.println</class>
+  <method>execute</method>
+  <thread>56</thread>
+  <message>hover</message>
+</record>
+<record>
+  <date>2024-05-06T02:40:16.472228173Z</date>
+  <millis>1714963216472</millis>
+  <nanos>228173</nanos>
+  <sequence>4</sequence>
+  <logger>jason.asSemantics.TransitionSystem.uav1</logger>
+  <level>INFO</level>
+  <class>jason.stdlib.println</class>
+  <method>execute</method>
+  <thread>56</thread>
+  <message>Safety Landing Procedure</message>
+</record>
+<record>
+  <date>2024-05-06T02:40:16.475020767Z</date>
+  <millis>1714963216475</millis>
+  <nanos>20767</nanos>
+  <sequence>5</sequence>
+  <logger>jason.asSemantics.TransitionSystem.uav1</logger>
+  <level>INFO</level>
+  <class>jason.stdlib.println</class>
+  <method>execute</method>
+  <thread>56</thread>
+  <message>Flying to -2,0</message>
+</record>
+<record>
+  <date>2024-05-06T02:40:24.026736279Z</date>
+  <millis>1714963224026</millis>
+  <nanos>736279</nanos>
+  <sequence>6</sequence>
+  <logger>jason.asSemantics.TransitionSystem.uav1</logger>
+  <level>INFO</level>
+  <class>jason.stdlib.println</class>
+  <method>execute</method>
+  <thread>56</thread>
+  <message>land</message>
+</record>
+</log>
